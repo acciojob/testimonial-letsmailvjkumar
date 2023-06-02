@@ -6,5 +6,6 @@ div{
 	background-color: white; 
 }
 .name{
+	font-style:italic;
 	text-align:right;
 }
