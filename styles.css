@@ -1,11 +1,10 @@
 /*  your css code here. If applicable */
 body{
-	background-color:#f5f5f5;
+	background-color: #f5f5f5;
 }
 div{
-	background-color:white;
+	background-color: white; 
 }
 .name{
-	display:flex;
-	justify-content:right;
+	text-align:right;
 }
